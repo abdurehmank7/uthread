@@ -1,0 +1,13 @@
+Thread 1 trying to acquire semaphore
+Thread 1 acquired semaphore
+Thread 2 trying to acquire semaphore
+Thread 2 acquired semaphore
+Thread 2 releasing semaphore
+Value of test_val: 2 in thread 2
+Thread 3 trying to acquire semaphore
+Thread 3 acquired semaphore
+Thread 3 releasing semaphore
+Value of test_val: 3 in thread 3
+Thread 1 releasing semaphore
+Value of test_val: 3 in thread 1
+Main thread exiting

@@ -1,0 +1,13 @@
+Thread 1 created two threads
+Thread 2: 0
+Thread 3: 0
+Thread 2: 1
+Thread 3: 1
+Thread 2: 2
+Thread 3: 2
+Thread 2: 3
+Thread 3: 3
+Thread 2: 4
+Thread 3: 4
+Thread 1 joined two threads
+Main thread exiting

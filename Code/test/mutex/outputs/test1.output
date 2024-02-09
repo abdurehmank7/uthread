@@ -1,0 +1,9 @@
+Thread 1 trying to acquire mutex
+Thread 1 acquired mutex
+Thread 2 trying to acquire mutex
+Thread 1 releasing mutex
+Value of test_val: 1 in thread 1
+Thread 2 acquired mutex
+Thread 2 releasing mutex
+Value of test_val: 2 in thread 2
+Main thread exiting

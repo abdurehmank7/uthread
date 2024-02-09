@@ -1,0 +1,2 @@
+Thread 1 trying to acquire mutex
+Thread 1 acquired mutex
